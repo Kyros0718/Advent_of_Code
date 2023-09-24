@@ -15,7 +15,7 @@ This is a Christmas-Themed event that occurs annually. From the start of Decembe
 &nbsp;
 
 ## My Solutions:
-Day 01 - [Calorie Counting](Kyros0718/Advent_of_Code/tree/main/Advent_2022/01-Calorie_Counting)
+Day 01 - [Calorie Counting](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/01-Calorie_Counting)
 
 ## Credits
 ### ADVENT OF CODE 
