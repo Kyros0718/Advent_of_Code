@@ -9,8 +9,8 @@ This is a Christmas-Themed event that occurs annually. From the start of Decembe
 
 &nbsp;
 
-### ADVENT OF CODE EVENT:
-> https://adventofcode.com/
+> ### [ADVENT OF CODE EVENT](https://adventofcode.com/)
+> _Click this link and join the fun_
 
 &nbsp;
 
