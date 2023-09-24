@@ -16,8 +16,11 @@ This is a Christmas-Themed event that occurs annually. From the start of Decembe
 
 ## My Solutions:
 **_Day 01_ -** [**Calorie Counting**](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/01-Calorie_Counting)
+
 **_Day 02_ -** [**Rock Paper Scissors**](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/02-Rock_Paper_Scissors)
+
 **_Day 03_ -** [**Rucksack Reorganization**](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/03-Rucksack_Reorganization)
+
 **_Day 04_ -** [**Canp Cleanup**](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/04-Camp_Cleanup)
 
 ## Credits
