@@ -9,7 +9,7 @@ This is a Christmas-Themed event that occurs annually. From the start of Decembe
 
 &nbsp;
 
-> ### [ADVENT OF CODE](https://adventofcode.com/)<br>_Click this link and join the fun_
+> ### [ADVENT OF CODE](https://adventofcode.com/)<br>_Click this link to join the fun_
 
 &nbsp;
 
