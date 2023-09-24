@@ -12,10 +12,13 @@ This is a Christmas-Themed event that occurs annually. From the start of Decembe
 ### ADVENT OF CODE EVENT:
 > https://adventofcode.com/
 
+&nbsp;
 
-
+## My Solutions:
+Day 01 - [Calorie Counting](Kyros0718/Advent_of_Code/Advent_2022/01-Calorie_Counting)
 
 ## Credits
+### ADVENT OF CODE 
 > **Puzzles, Code, & Design:** _Eric Wastl_
 >
 > **Beta Testing:**
