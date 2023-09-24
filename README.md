@@ -9,13 +9,14 @@ This is a Christmas-Themed event that occurs annually. From the start of Decembe
 
 &nbsp;
 
-> ### [ADVENT OF CODE EVENT](https://adventofcode.com/)
-> _Click this link and join the fun_
+> ### [ADVENT OF CODE](https://adventofcode.com/)<br>_Click this link and join the fun_
 
 &nbsp;
 
 ## My Solutions:
-**_Day 01_ - [Calorie Counting](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/01-Calorie_Counting)**<br>
+### 2022 
+
+> **_Day 01_ - [Calorie Counting](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/01-Calorie_Counting)**<br>
 **_Day 02_ - [Rock Paper Scissors](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/02-Rock_Paper_Scissors)**<br>
 **_Day 03_ - [Rucksack Reorganization](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/03-Rucksack_Reorganization)**<br>
 **_Day 04_ - [Camp Cleanup](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/04-Camp_Cleanup)**<br>
