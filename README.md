@@ -4,6 +4,8 @@
 <img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/Binary%20Codes%20and%20Snow%20Flakes_%20Landscape.png>
 
 This is a Christmas-Themed event that occurs annually. From the start of December until Christmas (December 25), a challenge will be posted per day.
+
+### ADVENT OF CODE EVENT:
 > https://adventofcode.com/
 
 
