@@ -45,11 +45,10 @@ Find the top three Elves carrying the most Calories. ${\color{white}How}$ ${\col
 ---
 ---
 # Credits
+
+> [!NOTES]  
 > **Image:** _imagine.art_ (AI Generated)<br>
 > **Puzzles:** _Advent of Code_
-
-> [CREDITS]([!NOTES])  
-> This is a note
 
 
 
