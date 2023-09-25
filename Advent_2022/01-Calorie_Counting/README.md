@@ -27,21 +27,21 @@ This list represents the Calories of the food carried by five Elves:
 - The fourth Elf is carrying food with `7000`, `8000`, and `9000` Calories, a total of **`24000`** Calories.
 - The fifth Elf is carrying one food item with **`10000`** Calories.
 
-In case the Elves get hungry and need extra snacks, they need to know which Elf to ask: they'd like to know how many Calories are being carried by the Elf carrying the ${\color{white}most}$ Calories. In the example above, this is **`24000`** (carried by the fourth Elf).
+In case the Elves get hungry and need extra snacks, they need to know which Elf to ask: they'd like to know how many Calories are being carried by the Elf carrying the $\color{VioletRed}{\textbf{most}}$ Calories. In the example above, this is **`24000`** (carried by the fourth Elf).
 
-Find the Elf carrying the most Calories. ${\color{white}How}$ ${\color{white}many}$ ${\color{white}total}$ ${\color{white}Calories}$ ${\color{white}is}$ ${\color{white}that}$ ${\color{white}Elf}$ ${\color{white}carrying?}$
+Find the Elf carrying the most Calories. $\color{VioletRed}{\textbf{How}}$ $\color{VioletRed}{\textbf{many}}$ $\color{VioletRed}{\textbf{total}}$ $\color{VioletRed}{\textbf{Calories}}$ $\color{VioletRed}{\textbf{is}}$ $\color{VioletRed}{\textbf{that}}$ $\color{VioletRed}{\textbf{Elf}}$ $\color{VioletRed}{\textbf{carrying?}}$
 > Your puzzle answer was **`71934`**
 
 <br>
 
 ##  Part Two
-By the time you calculate the answer to the Elves' question, they've already realized that the Elf carrying the most Calories of food might eventually ${\color{white}run}$ ${\color{white}out}$ ${\color{white}of}$ ${\color{white}snacks}$.
+By the time you calculate the answer to the Elves' question, they've already realized that the Elf carrying the most Calories of food might eventually $\color{VioletRed}{\textsf{run}}$ $\color{VioletRed}{\textsf{out}}$ $\color{VioletRed}{\textsf{of}}$ $\color{VioletRed}{\textsf{snacks}}$.
 
-To avoid this unacceptable situation, the Elves would instead like to know the total Calories carried by the ${\color{white}top}$ ${\color{white}three}$ Elves carrying the most Calories. That way, even if one of those Elves runs out of snacks, they still have two backups.
+To avoid this unacceptable situation, the Elves would instead like to know the total Calories carried by the $\color{VioletRed}{\textsf{top}}$ $\color{VioletRed}{\textsf{three}}$ Elves carrying the most Calories. That way, even if one of those Elves runs out of snacks, they still have two backups.
 
 In the example above, the top three Elves are the fourth Elf (with `24000` Calories), then the third Elf (with `11000` Calories), then the fifth Elf (with `10000` Calories). The sum of the Calories carried by these three elves is **`45000`**.
 
-Find the top three Elves carrying the most Calories. ${\color{white}How}$ ${\color{white}many}$ ${\color{white}Calories}$ ${\color{white}are}$ ${\color{white}those}$ ${\color{white}Elves}$ ${\color{white}carrying}$ ${\color{white}in}$ ${\color{white}total?}$
+Find the top three Elves carrying the most Calories. $\color{VioletRed}{\textsf{How}}$ $\color{VioletRed}{\textsf{many}}$ $\color{VioletRed}{\textsf{Calories}}$ $\color{VioletRed}{\textsf{are}}$ $\color{VioletRed}{\textsf{those}}$ $\color{VioletRed}{\textsf{Elves}}$ $\color{VioletRed}{\textsf{carrying}}$ $\color{VioletRed}{\textsf{in}}$ $\color{VioletRed}{\textsf{total?}}$
 
 > Your puzzle answer was **`211447`**.
 
