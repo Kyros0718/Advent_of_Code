@@ -42,3 +42,11 @@ In the example above, the top three Elves are the fourth Elf (with `24000` Calor
 Find the top three Elves carrying the most Calories. ${\color{white}How}$ ${\color{white}many}$ ${\color{white}Calories}$ ${\color{white}are}$ ${\color{white}those}$ ${\color{white}Elves}$ ${\color{white}carrying}$ ${\color{white}in}$ ${\color{white}total?}$
 
 > Your puzzle answer was **`211447`**.
+---
+---
+# Credits
+> **Image:** _imagine.art_ (AI Generated)<br>
+> **Puzzles:** _Advent of Code_
+
+> [!NOTE]  
+> This is a note
