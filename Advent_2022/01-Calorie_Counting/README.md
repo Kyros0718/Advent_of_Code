@@ -44,9 +44,8 @@ Find the top three Elves carrying the most Calories. ${\color{white}How}$ ${\col
 > Your puzzle answer was **`211447`**.
 
 <br>
+<br>
 
----
----
 # Credits
 
 > [!NOTE]  
