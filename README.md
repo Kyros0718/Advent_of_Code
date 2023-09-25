@@ -13,7 +13,7 @@ This is a Christmas-Themed event that occurs annually. From the start of Decembe
 
 <br>
 
-## My Solutions:
+## My Solutions: Python
 ### 2022 
 
 > **_Day 01_ - [Calorie Counting](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/01-Calorie_Counting)**<br>
