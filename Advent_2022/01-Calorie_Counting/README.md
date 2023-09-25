@@ -1,5 +1,6 @@
 # Day 01: Calorie Counting
 
+<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/baby%20elf%20carrying%20bags%20of%20cookies.png>
 
 Santa's reindeer typically eat regular reindeer food, but they need a lot of ${\color{green}magical}$ ${\color{green}energy}$ to deliver presents on Christmas. For that, their favorite snack is a special type of ${\color{yellow}star}$ fruit that only grows deep in the jungle. The Elves have brought you on their annual expedition to the grove where the fruit grows.
 
@@ -41,3 +42,16 @@ In the example above, the top three Elves are the fourth Elf (with `24000` Calor
 Find the top three Elves carrying the most Calories. ${\color{white}How}$ ${\color{white}many}$ ${\color{white}Calories}$ ${\color{white}are}$ ${\color{white}those}$ ${\color{white}Elves}$ ${\color{white}carrying}$ ${\color{white}in}$ ${\color{white}total?}$
 
 > Your puzzle answer was **`211447`**.
+
+<br>
+<br>
+
+# Credits
+
+> [!NOTE]  
+> **Image:** [_imagine.art_](https://www.imagine.art/)<br>
+> **Puzzles:** [_Advent of Code_](https://adventofcode.com/)
+
+
+
+
