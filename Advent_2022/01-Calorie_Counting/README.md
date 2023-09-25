@@ -35,13 +35,13 @@ Find the Elf carrying the most Calories. $\color{VioletRed}{\textbf{How}}$ $\col
 <br>
 
 ##  Part Two
-By the time you calculate the answer to the Elves' question, they've already realized that the Elf carrying the most Calories of food might eventually $\color{VioletRed}{\textsf{run}}$ $\color{VioletRed}{\textsf{out}}$ $\color{VioletRed}{\textsf{of}}$ $\color{VioletRed}{\textsf{snacks}}$.
+By the time you calculate the answer to the Elves' question, they've already realized that the Elf carrying the most Calories of food might eventually $\color{VioletRed}{\textbf{run}}$ $\color{VioletRed}{\textbf{out}}$ $\color{VioletRed}{\textbf{of}}$ $\color{VioletRed}{\textbf{snacks}}$.
 
-To avoid this unacceptable situation, the Elves would instead like to know the total Calories carried by the $\color{VioletRed}{\textsf{top}}$ $\color{VioletRed}{\textsf{three}}$ Elves carrying the most Calories. That way, even if one of those Elves runs out of snacks, they still have two backups.
+To avoid this unacceptable situation, the Elves would instead like to know the total Calories carried by the $\color{VioletRed}{\textbf{top}}$ $\color{VioletRed}{\textbf{three}}$ Elves carrying the most Calories. That way, even if one of those Elves runs out of snacks, they still have two backups.
 
 In the example above, the top three Elves are the fourth Elf (with `24000` Calories), then the third Elf (with `11000` Calories), then the fifth Elf (with `10000` Calories). The sum of the Calories carried by these three elves is **`45000`**.
 
-Find the top three Elves carrying the most Calories. $\color{VioletRed}{\textsf{How}}$ $\color{VioletRed}{\textsf{many}}$ $\color{VioletRed}{\textsf{Calories}}$ $\color{VioletRed}{\textsf{are}}$ $\color{VioletRed}{\textsf{those}}$ $\color{VioletRed}{\textsf{Elves}}$ $\color{VioletRed}{\textsf{carrying}}$ $\color{VioletRed}{\textsf{in}}$ $\color{VioletRed}{\textsf{total?}}$
+Find the top three Elves carrying the most Calories. $\color{VioletRed}{\textbf{How}}$ $\color{VioletRed}{\textbf{many}}$ $\color{VioletRed}{\textbf{Calories}}$ $\color{VioletRed}{\textbf{are}}$ $\color{VioletRed}{\textbf{those}}$ $\color{VioletRed}{\textbf{Elves}}$ $\color{VioletRed}{\textbf{carrying}}$ $\color{VioletRed}{\textbf{in}}$ $\color{VioletRed}{\textbf{total?}}$
 
 > Your puzzle answer was **`211447`**.
 
