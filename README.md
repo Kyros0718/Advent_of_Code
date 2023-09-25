@@ -14,7 +14,7 @@ This is a Christmas-Themed event that occurs annually. From the start of Decembe
 <br>
 
 ## My Solutions: Python
-### 2022 
+### [2022](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022) 
 
 >$\color{SeaGreen}{\textbf{Day 01}}$ - **[Calorie Counting](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/01-Calorie_Counting)**<br>
 $\color{SeaGreen}{\textbf{Day 02}}$ - **[Rock Paper Scissors](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/02-Rock_Paper_Scissors)**<br>
