@@ -51,4 +51,7 @@ Find the top three Elves carrying the most Calories. ${\color{white}How}$ ${\col
 > [!NOTE]  
 > This is a note
 
-<code style="color : aqua">text</code>
+<html>
+  <code style="color : aqua">text</code>
+</html>
+
