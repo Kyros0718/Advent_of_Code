@@ -1,17 +1,17 @@
 # Advent_of_Code
 > **Advent of Code** is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as interview prep, company training, university coursework, practice problems, a speed contest, or to challenge each other.
 
-&nbsp;
+<br>
 
 <img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/Binary%20Codes%20and%20Snow%20Flakes_%20Landscape.png>
 
 This is a Christmas-Themed event that occurs annually. From the start of December until Christmas (December 25), a challenge will be posted per day.
 
-&nbsp;
+<br>
 
 > ### [ADVENT OF CODE](https://adventofcode.com/)<br>_Click this link to join the fun_
 
-&nbsp;
+<br>
 
 ## My Solutions:
 ### 2022 
@@ -21,7 +21,7 @@ This is a Christmas-Themed event that occurs annually. From the start of Decembe
 **_Day 03_ - [Rucksack Reorganization](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/03-Rucksack_Reorganization)**<br>
 **_Day 04_ - [Camp Cleanup](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/04-Camp_Cleanup)**<br>
 
-&nbsp;
+<br>
 
 ## Credits
 ### ADVENT OF CODE 
