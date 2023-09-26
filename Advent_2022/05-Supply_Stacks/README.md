@@ -13,19 +13,19 @@ They do, however, have a drawing of the starting stacks of crates $\color{Violet
 | `     [D]     `<br>`[N] [C]    `<br>`[Z] [M] [P]`<br>`  1   2   3  `<br><br>move 1 from 2 to 1<br>move 3 from 1 to 3<br>move 2 from 2 to 1<br>move 1 from 1 to 2 |
 | :--- |
 
-In this example, there are three stacks of crates. Stack 1 contains two crates: crate Z is on the bottom, and crate N is on top. Stack 2 contains three crates; from bottom to top, they are crates M, C, and D. Finally, stack 3 contains a single crate, P.
+In this example, there are three stacks of crates. Stack 1 contains two crates: crate `Z` is on the bottom, and crate `N` is on top. Stack 2 contains three crates; from bottom to top, they are crates `M`, `C`, and `D`. Finally, stack 3 contains a single crate, `P`.
 
 Then, the rearrangement procedure is given. In each step of the procedure, a quantity of crates is moved from one stack to a different stack. In the first step of the above rearrangement procedure, one crate is moved from stack 2 to stack 1, resulting in this configuration:
 
 |`[D]        `<br>`[N] [C]    `<br>`[Z] [M] [P]`<br>`  1   2   3  ` |
 | --- |
 
-In the second step, three crates are moved from stack 1 to stack 3. Crates are moved $\color{VioletRed}{\textbf{one}}$ $\color{VioletRed}{\textbf{at}}$ $\color{VioletRed}{\textbf{a}}$ $\color{VioletRed}{\textbf{time}}$, so the first crate to be moved (D) ends up below the second and third crates:
+In the second step, three crates are moved from stack 1 to stack 3. Crates are moved $\color{VioletRed}{\textbf{one}}$ $\color{VioletRed}{\textbf{at}}$ $\color{VioletRed}{\textbf{a}}$ $\color{VioletRed}{\textbf{time}}$, so the first crate to be moved (`D`) ends up below the second and third crates:
 
 | `        [Z]`<br>`        [N]`<br>`    [C] [D]`<br>`    [M] [P]`<br>`  1   2   3  ` |
 | --- |
 
-Then, both crates are moved from stack 2 to stack 1. Again, because crates are moved $\color{VioletRed}{\textbf{one}}$ $\color{VioletRed}{\textbf{at}}$ $\color{VioletRed}{\textbf{a}}$ $\color{VioletRed}{\textbf{time}}$, crate C ends up below crate M:
+Then, both crates are moved from stack 2 to stack 1. Again, because crates are moved $\color{VioletRed}{\textbf{one}}$ $\color{VioletRed}{\textbf{at}}$ $\color{VioletRed}{\textbf{a}}$ $\color{VioletRed}{\textbf{time}}$, crate `C` ends up below crate `M`:
 
 | `        [Z]`<br>`        [N]`<br>`[M]     [D]`<br>`[C]     [P]`<br>`  1   2   3  ` |
 | --- |
@@ -35,7 +35,7 @@ Finally, one crate is moved from stack 1 to stack 2:
 | `        [Z]`<br>`        [N]`<br>`        [D]`<br>`[C] [M] [P]`<br>`  1   2   3  ` |
 | --- |
 
-The Elves just need to know $\color{VioletRed}{\textbf{which}}$ $\color{VioletRed}{\textbf{crate}}$ $\color{VioletRed}{\textbf{will}}$ $\color{VioletRed}{\textbf{end}}$ $\color{VioletRed}{\textbf{up}}$ $\color{VioletRed}{\textbf{on}}$ $\color{VioletRed}{\textbf{top}}$ $\color{VioletRed}{\textbf{of}}$ $\color{VioletRed}{\textbf{each}}$ $\color{VioletRed}{\textbf{stack}}$; in this example, the top crates are C in stack 1, M in stack 2, and Z in stack 3, so you should combine these together and give the Elves the message CMZ.
+The Elves just need to know $\color{VioletRed}{\textbf{which}}$ $\color{VioletRed}{\textbf{crate}}$ $\color{VioletRed}{\textbf{will}}$ $\color{VioletRed}{\textbf{end}}$ $\color{VioletRed}{\textbf{up}}$ $\color{VioletRed}{\textbf{on}}$ $\color{VioletRed}{\textbf{top}}$ $\color{VioletRed}{\textbf{of}}$ $\color{VioletRed}{\textbf{each}}$ $\color{VioletRed}{\textbf{stack}}$; in this example, the top crates are `C` in stack 1, `M` in stack 2, and `Z` in stack 3, so you should combine these together and give the Elves the message **`CMZ`**.
 
 $\color{VioletRed}{\textbf{After}}$ $\color{VioletRed}{\textbf{the}}$ $\color{VioletRed}{\textbf{rearrangement}}$ $\color{VioletRed}{\textbf{procedure}}$ $\color{VioletRed}{\textbf{completes,}}$ $\color{VioletRed}{\textbf{what}}$ $\color{VioletRed}{\textbf{crate}}$ $\color{VioletRed}{\textbf{ends}}$ $\color{VioletRed}{\textbf{up}}$ $\color{VioletRed}{\textbf{on}}$ $\color{VioletRed}{\textbf{top}}$ $\color{VioletRed}{\textbf{of}}$ $\color{VioletRed}{\textbf{each}}$ $\color{VioletRed}{\textbf{stack?}}$
 
@@ -44,22 +44,7 @@ $\color{VioletRed}{\textbf{After}}$ $\color{VioletRed}{\textbf{the}}$ $\color{Vi
 <br>
 
 ##  Part Two
-It seems like there is still quite a bit of duplicate work planned. Instead, the Elves would like to know the number of pairs that $\color{VioletRed}{\textbf{overlap}}$ $\color{VioletRed}{\textbf{at}}$ $\color{VioletRed}{\textbf{all}}$.
 
-In the above example, the first two pairs (`2-4,6-8` and `2-3,4-5`) don't overlap, while the remaining four pairs (`5-7,7-9`, `2-8,3-7`, `6-6,4-6`, and `2-6,4-8`) do overlap:
-
-- `5-7,7-9` overlaps in a single section, `7`.
-- `2-8,3-7` overlaps all of the sections `3` through `7`.
-- `6-6,4-6` overlaps in a single section, `6`.
-- `2-6,4-8` overlaps in sections `4`, `5`, and `6`.
-
-So, in this example, the number of overlapping assignment pairs is `4`.
-
-$\color{VioletRed}{\textbf{In}}$ $\color{VioletRed}{\textbf{how}}$ $\color{VioletRed}{\textbf{many}}$ $\color{VioletRed}{\textbf{assignment}}$ $\color{VioletRed}{\textbf{pairs}}$ $\color{VioletRed}{\textbf{do}}$ $\color{VioletRed}{\textbf{the}}$ $\color{VioletRed}{\textbf{ranges}}$ $\color{VioletRed}{\textbf{overlap?}}$
-
-The Elves just need to know which crate will end up on top of each stack; in this example, the top crates are C in stack 1, M in stack 2, and Z in stack 3, so you should combine these together and give the Elves the message CMZ.
-
-After the rearrangement procedure completes, what crate ends up on top of each stack?
 
 > Your puzzle answer was **`ANSWER`**.
 
