@@ -1,5 +1,5 @@
-#Puzzle: Day 03 ____________________
-#Rucksack Reorganization
+#Puzzle: Day 04 ____________________
+#Camp Cleanup
 
 def dataConverter(data):
     data = list(map(lambda x: list(map(int,'-'.join(x.split()[0].split(',')).split('-'))), open(data,'r')))
