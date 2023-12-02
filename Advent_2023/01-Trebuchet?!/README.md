@@ -29,9 +29,18 @@ Consider your entire calibration document. $\color{VioletRed}{\textbf{What}}$ $\
 <br>
 
 ##  Part Two
+Your calculation isn't quite right. It looks like some of the digits are actually $\color{VioletRed}{\textbf{spelled}}$ $\color{VioletRed}{\textbf{out}}$ $\color{VioletRed}{\textbf{with}}$ $\color{VioletRed}{\textbf{letters:}}$ `one`, `two`, `three`, `four`, `five`, `six`, `seven`, `eight`, and nine $\color{VioletRed}{\textbf{also}}$ count as valid "digits".
 
+Equipped with this new information, you now need to find the real first and last digit on each line. For example:
 
-> Your puzzle answer was **`00000`**.
+| two1nine<br>eightwothree<br>abcone2threexyz<br>xtwone3four<br>4nineeightseven2<br>zoneight234<br>7pqrstsixteen |
+| :--- |
+
+In this example, the calibration values are `29`, `83`, `13`, `24`, `42`, `14`, and `76`. Adding these together produces **`281`**.
+
+$\color{VioletRed}{\textbf{What}}$ $\color{VioletRed}{\textbf{is}}$ $\color{VioletRed}{\textbf{the}}$ $\color{VioletRed}{\textbf{sum}}$ $\color{VioletRed}{\textbf{of}}$ $\color{VioletRed}{\textbf{all}}$ $\color{VioletRed}{\textbf{of}}$ $\color{VioletRed}{\textbf{the}}$ $\color{VioletRed}{\textbf{calibration}}$ $\color{VioletRed}{\textbf{values?}}$
+
+> Your puzzle answer was **`54078`**.
 
 <br>
 <br>
