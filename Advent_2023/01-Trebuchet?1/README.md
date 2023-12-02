@@ -22,7 +22,7 @@ In this example, the calibration values of these four lines are `12`, `38`, `15`
 
 Consider your entire calibration document. $\color{VioletRed}{\textbf{What}}$ $\color{VioletRed}{\textbf{is}}$ $\color{VioletRed}{\textbf{the}}$ $\color{VioletRed}{\textbf{sum}}$ $\color{VioletRed}{\textbf{of}}$ $\color{VioletRed}{\textbf{all}}$ $\color{VioletRed}{\textbf{of}}$ $\color{VioletRed}{\textbf{the}}$ $\color{VioletRed}{\textbf{calibration}}$ $\color{VioletRed}{\textbf{values?}}$
 
-> Your puzzle answer was **`00000`**
+> Your puzzle answer was **`54601`**
 
 <br>
 
