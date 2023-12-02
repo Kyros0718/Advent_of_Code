@@ -1,6 +1,6 @@
 # Day 02: Rock Paper Scissors
 > Strategy with outcomes for the rock, paper, scissor tournaments. Algorithm: Total score if you use decisive Choice [Rock, Paper, Scissor]; Total score if you use decisive Results [Win, Lose, Draws].
-<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/baby%20elf%20playing%20rock%20paper%20scissors.png>
+<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/2022/baby%20elf%20playing%20rock%20paper%20scissors.png>
 
 The Elves begin to set up camp on the beach. To decide whose tent gets to be closest to the snack storage, a giant [Rock Paper Scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors) tournament is already in progress.
 
