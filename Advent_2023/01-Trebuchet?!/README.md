@@ -1,6 +1,8 @@
 # Day 01: Trebuchet?!
-> Summary
+> List of chaotic calibration values, containing numerical and string digits. Considering only the numerical digits, find the sum of all calibration values. Consider both numerical and string digits, find the sum of all calibration values.
+<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/2023/baby_elf_launched_from_trebuchet.png>
 
+ 
 Something is wrong with global snow production, and you've been selected to take a look. The Elves have even given you a map; on it, they've used stars to mark the top fifty locations that are likely to be having problems.
 
 You've been doing this long enough to know that to restore snow operations, you need to check all ${\color{yellow}fifty}$ ${\color{yellow}stars}$ by December 25th.
