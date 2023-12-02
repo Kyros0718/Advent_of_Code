@@ -23,7 +23,7 @@ $\color{SeaGreen}{\textbf{Day 04}}$ - **[Camp Cleanup](https://github.com/Kyros0
 
 ### [2023](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2023) 
 
->$\color{SeaGreen}{\textbf{Day 01}}$ - **[Trebuchet?!](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2023/01-Trebuchet?!)**<br>
+>$\color{SeaGreen}{\textbf{Day 01}}$ - **[Trebuchet?!](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2023/01-Trebuchet%3F!)**<br>
 
 <br>
 
