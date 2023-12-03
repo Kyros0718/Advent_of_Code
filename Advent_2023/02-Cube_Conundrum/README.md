@@ -1,5 +1,5 @@
 # Day 02: Cube Conundrum
-> SUMMARY
+> List of Game IDs with sets of red, green, and blue cubes pulled from a pouch bag. Find the sum of game's ID that had the possiblilty of having a maximum of certain amount of colored cubes. Find the sum of the power of sets of minimum colored cubes.
 <img src=>
  
 You're launched high into the atmosphere! The apex of your trajectory just barely reaches the surface of a large island floating in the sky. You gently land in a fluffy pile of leaves. It's quite cold, but you don't see much snow. An Elf runs over to greet you.
