@@ -49,7 +49,7 @@ The $\color{VioletRed}{\textbf{power}}$ of a set of cubes is equal to the number
 For each game, find the minimum set of cubes that must have been present. $\color{VioletRed}{\textbf{What}}$ $\color{VioletRed}{\textbf{is}}$ $\color{VioletRed}{\textbf{the}}$ $\color{VioletRed}{\textbf{sum}}$ $\color{VioletRed}{\textbf{of}}$ $\color{VioletRed}{\textbf{the}}$ $\color{VioletRed}{\textbf{power}}$ $\color{VioletRed}{\textbf{of}}$ $\color{VioletRed}{\textbf{these}}$ $\color{VioletRed}{\textbf{sets?}}$
 
 
-> Your puzzle answer was **`ANSWER`**.
+> Your puzzle answer was **`67363`**.
 
 <br>
 <br>
