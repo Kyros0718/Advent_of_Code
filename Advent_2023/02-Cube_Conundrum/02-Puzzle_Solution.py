@@ -12,7 +12,9 @@ def rgbFormat(rgblist):
     
     return [rgb['red'],rgb['green'],rgb['blue']]
 
-def rgbDict(data):
+def dataConvert(file):
+    data = list(map(lambda x: [x.split()[1][:-1]]+' '.join(x.split()[2:]).split('; '), file))
+    
     cubes = {}
     rgblist = list(map(lambda x: [x[0]]+list(map(lambda y: y.split(', '),x[1:])), data))
     stuff = list(map(lambda x: dictAssign(x[0],list(map(lambda y: rgbFormat(y), x[1:])), cubes), rgblist))
@@ -37,10 +39,7 @@ def cubePower(datadict):
 
 
 if __name__ == '__main__':    
-    data = list(map(lambda x: [x.split()[1][:-1]]+' '.join(x.split()[2:]).split('; '), file))
-    data = rgbDict(data)
+    data = dataConvert(file)
     
     print("Sum Of Possible Game's ID:", possibleGame([12,13,14],data))
     print("Sum of Power Sets:", cubePower(data))
-    
-
