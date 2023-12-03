@@ -20,6 +20,7 @@ This is a Christmas-Themed event that occurs annually. From the start of Decembe
 $\color{SeaGreen}{\textbf{Day 02}}$ - **[Rock Paper Scissors](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/02-Rock_Paper_Scissors)**<br>
 $\color{SeaGreen}{\textbf{Day 03}}$ - **[Rucksack Reorganization](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/03-Rucksack_Reorganization)**<br>
 $\color{SeaGreen}{\textbf{Day 04}}$ - **[Camp Cleanup](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/04-Camp_Cleanup)**<br>
+<br>
 
 ### [2023](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2023) 
 
