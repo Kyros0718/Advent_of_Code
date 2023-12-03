@@ -3,7 +3,7 @@
 
 <br>
 
-<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/Binary%20Codes%20and%20Snow%20Flakes_%20Landscape.png>
+<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/2022/Binary%20Codes%20and%20Snow%20Flakes_%20Landscape.png>
 
 This is a Christmas-Themed event that occurs annually. From the start of December until Christmas (December 25), a challenge will be posted per day.
 
@@ -24,7 +24,7 @@ $\color{SeaGreen}{\textbf{Day 04}}$ - **[Camp Cleanup](https://github.com/Kyros0
 ### [2023](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2023) 
 
 >$\color{SeaGreen}{\textbf{Day 01}}$ - **[Trebuchet?!](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2023/01-Trebuchet%3F!)**<br>
-
+$\color{SeaGreen}{\textbf{Day 02}}$ - **[Cube Conundrum](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2023/02-Cube_Conundrum)**<br>
 <br>
 
 ## Credits
