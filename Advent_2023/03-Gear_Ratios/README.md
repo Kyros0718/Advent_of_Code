@@ -16,7 +16,7 @@ The engine schematic (your puzzle input) consists of a visual representation of 
 
 Here is an example engine schematic:
 
-| 467..114..<br>...*......<br>..35..633.<br>......#...<br>617*......<br>.....+.58.<br>..592.....<br>......755.<br>...$.*....<br>.664.598.. |
+| `467..114..`<br>`...*......`<br>`..35..633.`<br>`......#...`<br>`617*......`<br>`.....+.58.`<br>`..592.....`<br>`......755.`<br>`...$.*....`<br>`.664.598..` |
 | --- |
 
 In this schematic, two numbers are $\color{VioletRed}{\textbf{not}}$ part numbers because they are not adjacent to a symbol: `114` (top right) and `58` (middle right). Every other number is adjacent to a symbol and so $\color{VioletRed}{\textbf{is}}$ a part number; their sum is **`4361`**.
