@@ -2,7 +2,7 @@
 > SUMMARY
 <img src=>
 
-You and the Elf eventually reach a gondola lift station; he says the gondola lift will take you up to the $\color{VioletRed}{\textbf{water}}$ $\color{VioletRed}{\textbf{source}}$, but this is as far as he can bring you. You go inside.
+You and the Elf eventually reach a ${\color{green}gondola}$ ${\color{green}lift}$ station; he says the gondola lift will take you up to the $\color{VioletRed}{\textbf{water}}$ $\color{VioletRed}{\textbf{source}}$, but this is as far as he can bring you. You go inside.
 
 It doesn't take long to find the gondolas, but there seems to be a problem: they're not moving.
 
