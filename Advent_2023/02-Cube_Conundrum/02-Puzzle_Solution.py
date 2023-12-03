@@ -7,18 +7,19 @@ def dictAssign(key,val,dic):
     dic[key] = val
 
 def rgbFormat(rgblist):
-    rgb = {'red':0,'green':0,'blue':0}
-    list(map(lambda x: dictAssign(x.split()[1],int(x.split()[0]),rgb), rgblist))
+    rgb = {'red':0, 'green':0, 'blue':0}
+    list(map(lambda x: dictAssign(x.split()[1], int(x.split()[0]), rgb), rgblist))
     
-    return [rgb['red'],rgb['green'],rgb['blue']]
+    return [rgb['red'], rgb['green'], rgb['blue']]
 
 def dataConvert(file):
     data = list(map(lambda x: [x.split()[1][:-1]]+' '.join(x.split()[2:]).split('; '), file))
     
-    cubes = {}
+    rgbdict = {}
     rgblist = list(map(lambda x: [x[0]]+list(map(lambda y: y.split(', '),x[1:])), data))
-    stuff = list(map(lambda x: dictAssign(x[0],list(map(lambda y: rgbFormat(y), x[1:])), cubes), rgblist))
-    return cubes
+    stuff = list(map(lambda x: dictAssign(x[0], list(map(lambda y: rgbFormat(y), x[1:])), rgbdict), rgblist))
+    
+    return rgbdict
 
     
 #Part 1_____
