@@ -1,6 +1,6 @@
 # Day 03: Gear Ratios
 > SUMMARY
-<img src=>
+<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/2023/babyelf_surounded_by_mechanicalgears.png>
 
 You and the Elf eventually reach a ${\color{green}gondola}$ ${\color{green}lift}$ station; he says the gondola lift will take you up to the $\color{VioletRed}{\textbf{water}}$ $\color{VioletRed}{\textbf{source}}$, but this is as far as he can bring you. You go inside.
 
