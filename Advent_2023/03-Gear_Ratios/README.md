@@ -1,5 +1,5 @@
 # Day 03: Gear Ratios
-> Visual representation of Engine. Find all sum of all Engine Parts. Find sum after considering Gear Ratios of Engine.
+> Visual representation of Engine. Find all sum of all Parts adjacent to Gears. Find sum of all Gear Ratios (Gears with only 2 adjacent Parts; take the product of the 2 parts).
 <img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/2023/babyelf_surounded_by_mechanicalgears.png>
 
 You and the Elf eventually reach a ${\color{green}gondola}$ ${\color{green}lift}$ station; he says the gondola lift will take you up to the $\color{VioletRed}{\textbf{water}}$ $\color{VioletRed}{\textbf{source}}$, but this is as far as he can bring you. You go inside.
