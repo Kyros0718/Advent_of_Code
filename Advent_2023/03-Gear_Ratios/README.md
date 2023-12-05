@@ -47,7 +47,7 @@ In this schematic, there are $\color{VioletRed}{\textbf{two}}$ gears. The first 
 
 $\color{VioletRed}{\textbf{What}}$ $\color{VioletRed}{\textbf{is}}$ $\color{VioletRed}{\textbf{the}}$ $\color{VioletRed}{\textbf{sum}}$ $\color{VioletRed}{\textbf{of}}$ $\color{VioletRed}{\textbf{all}}$ $\color{VioletRed}{\textbf{of}}$ $\color{VioletRed}{\textbf{the}}$ $\color{VioletRed}{\textbf{gear}}$ $\color{VioletRed}{\textbf{ratios}}$ $\color{VioletRed}{\textbf{in}}$ $\color{VioletRed}{\textbf{your}}$ $\color{VioletRed}{\textbf{engine}}$ $\color{VioletRed}{\textbf{schematic?}}$
 
-> Your puzzle answer was **`ANSWER`**.
+> Your puzzle answer was **`80403602`**.
 
 <br>
 <br>
