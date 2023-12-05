@@ -33,3 +33,21 @@ So, in this example, the Elf's pile of scratchcards is worth **`13`** points.
 
 Take a seat in the large pile of colorful cards. $\color{VioletRed}{\textbf{How}}$ $\color{VioletRed}{\textbf{many}}$ $\color{VioletRed}{\textbf{points}}$ $\color{VioletRed}{\textbf{are}}$ $\color{VioletRed}{\textbf{they}}$ $\color{VioletRed}{\textbf{worth}}$ $\color{VioletRed}{\textbf{in}}$ $\color{VioletRed}{\textbf{total?}}$
 
+> Your puzzle answer was **`ANSWER`**
+
+<br>
+
+##  Part Two
+
+
+> Your puzzle answer was **`ANSWER`**.
+
+<br>
+<br>
+
+# Credits
+
+> [!NOTE]  
+> **Image:** [_imagine.art_](https://www.imagine.art/)<br>
+> **Puzzles:** [_Advent of Code_](https://adventofcode.com/)
+
