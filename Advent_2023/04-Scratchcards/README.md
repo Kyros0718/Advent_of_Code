@@ -1,6 +1,6 @@
 # Day 04: Scratchcards
 > SUMMARY
-<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/2023/baby%20elf%20on%20gondala.png>
+<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/2023/baby_elf_on_gondala.png>
 > 
 The gondola takes you up. Strangely, though, the ground doesn't seem to be coming with you; you're not climbing a mountain. As the circle of Snow Island recedes below you, an entire new landmass suddenly appears above you! The gondola carries you to the surface of the new island and lurches into the station.
 
