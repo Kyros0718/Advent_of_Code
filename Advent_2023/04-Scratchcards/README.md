@@ -40,11 +40,11 @@ Take a seat in the large pile of colorful cards. $\color{VioletRed}{\textbf{How}
 ##  Part Two
 Just as you're about to report your findings to the Elf, one of you realizes that the rules have actually been printed on the back of every card this whole time.
 
-There's no such thing as "points". Instead, scratchcards only cause you to $\color{VioletRed}{\textbf{win more scratchcards}}$ equal to the number of winning numbers you have.
+There's no such thing as "points". Instead, scratchcards only cause you to $\color{VioletRed}{\textbf{win}}$ $\color{VioletRed}{\textbf{more}}$ $\color{VioletRed}{\textbf{scratchcards}}$ equal to the number of winning numbers you have.
 
 Specifically, you win $\color{VioletRed}{\textbf{copies}}$ of the scratchcards below the winning card equal to the number of matches. So, if card 10 were to have 5 matching numbers, you would win one copy each of cards 11, 12, 13, 14, and 15.
 
-Copies of scratchcards are scored like normal scratchcards and have the $\color{VioletRed}{\textbf{same card number}}$ as the card they copied. So, if you win a copy of card 10 and it has 5 matching numbers, it would then win a copy of the same cards that the original card 10 won: cards 11, 12, 13, 14, and 15. This process repeats until none of the copies cause you to win any more cards. (Cards will never make you copy a card past the end of the table.)
+Copies of scratchcards are scored like normal scratchcards and have the $\color{VioletRed}{\textbf{same}}$ $\color{VioletRed}{\textbf{card}}$ $\color{VioletRed}{\textbf{number}}$ as the card they copied. So, if you win a copy of card 10 and it has 5 matching numbers, it would then win a copy of the same cards that the original card 10 won: cards 11, 12, 13, 14, and 15. This process repeats until none of the copies cause you to win any more cards. (Cards will never make you copy a card past the end of the table.)
 
 This time, the above example goes differently:
 
@@ -61,7 +61,7 @@ This time, the above example goes differently:
 
 Once all of the originals and copies have been processed, you end up with `1` instance of card 1, `2` instances of card 2, `4` instances of card 3, `8` instances of card 4, `14` instances of card 5, and `1` instance of card 6. In total, this example pile of scratchcards causes you to ultimately have `30` scratchcards!
 
-Process all of the original and copied scratchcards until no more scratchcards are won. Including the original set of scratchcards, $\color{VioletRed}{\textbf{how many total scratchcards do you end up with?}}$
+Process all of the original and copied scratchcards until no more scratchcards are won. Including the original set of scratchcards, $\color{VioletRed}{\textbf{how}}$ $\color{VioletRed}{\textbf{many}}$ $\color{VioletRed}{\textbf{total}}$ $\color{VioletRed}{\textbf{scratchcards}}$ $\color{VioletRed}{\textbf{do}}$ $\color{VioletRed}{\textbf{you}}$ $\color{VioletRed}{\textbf{end}}$ $\color{VioletRed}{\textbf{up}}$ $\color{VioletRed}{\textbf{with?}}$
 
 > Your puzzle answer was **`5132675`**
 
