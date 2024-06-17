@@ -1,6 +1,6 @@
 # Day 01: Calorie Counting
-> List with elves carrying multiple foods of different calories. Algorithm: Find the elf carrying the most calories; Total the calories of the top three elves.
-<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/2022/baby%20elf%20carrying%20bags%20of%20cookies.png>
+
+<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/baby%20elf%20carrying%20bags%20of%20cookies.png>
 
 Santa's reindeer typically eat regular reindeer food, but they need a lot of ${\color{green}magical}$ ${\color{green}energy}$ to deliver presents on Christmas. For that, their favorite snack is a special type of ${\color{yellow}star}$ fruit that only grows deep in the jungle. The Elves have brought you on their annual expedition to the grove where the fruit grows.
 

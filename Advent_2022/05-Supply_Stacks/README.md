@@ -1,6 +1,6 @@
 # Day 05: Supply Stacks
 
-<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/2022/baby%20elf%20sitting%20on%20crates.png>
+<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/baby%20elf%20sitting%20on%20crates.png>
 
 The expedition can depart as soon as the final supplies have been unloaded from the ships. Supplies are stored in stacks of marked $\color{VioletRed}{\textbf{crates}}$, but because the needed supplies are buried under many other crates, the crates need to be rearranged.
 
