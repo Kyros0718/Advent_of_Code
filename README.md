@@ -3,7 +3,7 @@
 
 <br>
 
-<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/2022/Binary%20Codes%20and%20Snow%20Flakes_%20Landscape.png>
+<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/Binary%20Codes%20and%20Snow%20Flakes_%20Landscape.png>
 
 This is a Christmas-Themed event that occurs annually. From the start of December until Christmas (December 25), a challenge will be posted per day.
 
@@ -20,14 +20,7 @@ This is a Christmas-Themed event that occurs annually. From the start of Decembe
 $\color{SeaGreen}{\textbf{Day 02}}$ - **[Rock Paper Scissors](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/02-Rock_Paper_Scissors)**<br>
 $\color{SeaGreen}{\textbf{Day 03}}$ - **[Rucksack Reorganization](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/03-Rucksack_Reorganization)**<br>
 $\color{SeaGreen}{\textbf{Day 04}}$ - **[Camp Cleanup](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2022/04-Camp_Cleanup)**<br>
-<br>
 
-### [2023](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2023) 
-
->$\color{SeaGreen}{\textbf{Day 01}}$ - **[Trebuchet?!](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2023/01-Trebuchet%3F!)**<br>
-$\color{SeaGreen}{\textbf{Day 02}}$ - **[Cube Conundrum](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2023/02-Cube_Conundrum)**<br>
-$\color{SeaGreen}{\textbf{Day 03}}$ - **[Gear Ratios](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2023/03-Gear_Ratios)**<br>
-$\color{SeaGreen}{\textbf{Day 04}}$ - **[Scratchcards](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2023/04-Scratchcards)**<br>
 <br>
 
 ## Credits
