@@ -24,7 +24,7 @@ $\color{SeaGreen}{\textbf{Day 04}}$ - **[Camp Cleanup](https://github.com/Kyros0
 
 ### [2023](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2023) 
 
->$\color{SeaGreen}{\textbf{Day 01}}$ - **[Trebuchet?!](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2023/01-Trebuchet%3F!)**<br>
+>$\color{SeaGreen}{\textbf{Day 01}}$ - **[Trebuchet?!](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2023/01-Trebuchet)**<br>
 $\color{SeaGreen}{\textbf{Day 02}}$ - **[Cube Conundrum](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2023/02-Cube_Conundrum)**<br>
 $\color{SeaGreen}{\textbf{Day 03}}$ - **[Gear Ratios](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2023/03-Gear_Ratios)**<br>
 $\color{SeaGreen}{\textbf{Day 04}}$ - **[Scratchcards](https://github.com/Kyros0718/Advent_of_Code/tree/main/Advent_2023/04-Scratchcards)**<br>
