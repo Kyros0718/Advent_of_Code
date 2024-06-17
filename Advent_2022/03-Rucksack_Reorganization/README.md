@@ -1,6 +1,6 @@
 # Day 03: Rucksack Reorganization
 
-<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/baby%20elf%20putting%20items%20in%20bag.png>
+<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/2022/baby%20elf%20putting%20items%20in%20bag.png>
 
 One Elf has the important job of loading all of the [rucksacks](https://en.wikipedia.org/wiki/Backpack) with supplies for the jungle journey. Unfortunately, that Elf didn't quite follow the packing instructions, and so a few items now need to be rearranged.
 
