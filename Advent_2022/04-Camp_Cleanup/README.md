@@ -1,6 +1,6 @@
 # Day 04: Camp Cleanup
 
-<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/baby%20elf%20sweeping.png>
+<img src=https://github.com/Kyros0718/Advent_of_Code/blob/main/Media/2022/baby%20elf%20sweeping.png>
 
 Space needs to be cleared before the last supplies can be unloaded from the ships, and so several Elves have been assigned the job of cleaning up sections of the camp. Every section has a unique $\color{VioletRed}{\textbf{ID}}$ $\color{VioletRed}{\textbf{number}}$, and each Elf is assigned a range of section IDs.
 
