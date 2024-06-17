@@ -12,7 +12,7 @@ The list of items for each rucksack is given as characters all on a single line.
 
 For example, suppose you have the following list of contents from six rucksacks:
 
-| vJrwpWtwJgWrhcsFMMfFFhFp<br>jqHRNqRjqzjGDLGLrsFMfFZSrLrFZsSL<br>PmmdzqPrVvPwwTWBwg<br>wMqvLMZHhHMvwLHjbvcjnnSBnvTQFn<br>ttgJtRGJQctTZtZT<br>CrZsJsPPZsGzwwsLwLmpwMDw |
+| `vJrwpWtwJgWrhcsFMMfFFhFp`<br>`jqHRNqRjqzjGDLGLrsFMfFZSrLrFZsSL`<br>`PmmdzqPrVvPwwTWBwg`<br>`wMqvLMZHhHMvwLHjbvcjnnSBnvTQFn`<br>`ttgJtRGJQctTZtZT`<br>`CrZsJsPPZsGzwwsLwLmpwMDw` |
 | :--- |
 
 - The first rucksack contains the items `vJrwpWtwJgWrhcsFMMfFFhFp`, which means its first compartment contains the items `vJrwpWtwJgWr`, while the second compartment contains the items `hcsFMMfFFhFp`. The only item type that appears in both compartments is lowercase **`p`**.
@@ -46,12 +46,12 @@ Additionally, nobody wrote down which item type corresponds to each group's badg
 
 Every set of three lines in your list corresponds to a single group, but each group can have a different badge item type. So, in the above example, the first group's rucksacks are the first three lines:
 
-| vJrwpWtwJgWrhcsFMMfFFhFp<br>jqHRNqRjqzjGDLGLrsFMfFZSrLrFZsSL<br>PmmdzqPrVvPwwTWBwg |
+| `vJrwpWtwJgWrhcsFMMfFFhFp`<br>`jqHRNqRjqzjGDLGLrsFMfFZSrLrFZsSL`<br>`PmmdzqPrVvPwwTWBwg` |
 | :--- |
 
 And the second group's rucksacks are the next three lines:
 
-| wMqvLMZHhHMvwLHjbvcjnnSBnvTQFn<br>ttgJtRGJQctTZtZT<br>CrZsJsPPZsGzwwsLwLmpwMDw |
+| `wMqvLMZHhHMvwLHjbvcjnnSBnvTQFn`<br>`ttgJtRGJQctTZtZT`<br>`CrZsJsPPZsGzwwsLwLmpwMDw` |
 | :--- |
 
 In the first group, the only item type that appears in all three rucksacks is lowercase `r`; this must be their badges. In the second group, their badge item type must be `Z`.
