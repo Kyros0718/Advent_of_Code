@@ -1,12 +1,8 @@
-# Day 05: If You Give A Seed A Fertilizer
->  
-<img src=>
-
 You take the boat and find the gardener right where you were told he would be: managing a giant "garden" that looks more to you like a farm.
 
 "A water source? Island Island $\color{VioletRed}{\textbf{is}}$ the water source!" You point out that Snow Island isn't receiving any water.
 
-"Oh, we had to stop the water because $\color{VioletRed}{\textbf{we}}$ $\color{VioletRed}{\textbf{ran}}$ $\color{VioletRed}{\textbf{out}}$ $\color{VioletRed}{\textbf{of}}$ $\color{VioletRed}{\textbf{sand}}$ to $\color{green}{\textbf{filter}}$ it with! Can't make snow with dirty water. Don't worry, I'm sure we'll get more sand soon; we only turned off the water a few days... weeks... oh no." His face sinks into a look of horrified realization.
+"Oh, we had to stop the water because $\color{VioletRed}{\textbf{we}}$ $\color{VioletRed}{\textbf{ran}}$ $\color{VioletRed}{\textbf{out}}$ $\color{VioletRed}{\textbf{of}}$ $\color{VioletRed}{\textbf{sand}}$ to $\color{green}{\textbf{filter}}$ it with! Can't make snow with dirty water. Don't worry, I'm sure we'll get more sand soon; we only turned off the water a few days. . .  weeks. . .  oh no." His face sinks into a look of horrified realization.
 
 "I've been so busy making sure everyone here has food that I completely forgot to check why we stopped getting more sand! There's a ferry leaving soon that is headed over in that direction - it's much faster than your boat. Could you please go check it out?"        
 
@@ -21,18 +17,18 @@ For example:
 
 The almanac starts by listing which seeds need to be planted: seeds `79`, `14`, `55`, and `13`.
 
-The rest of the almanac contains a list of $\color{VioletRed}{\textbf{maps}}$ which describe how to convert numbers from a $\color{VioletRed}{\textbf{source}}$ $\color{VioletRed}{\textbf{category}}$ into numbers in a $\color{VioletRed}{\textbf{destination}}$ $\color{VioletRed}{\textbf{category}}$. That is, the section that starts with seed-to-soil map: describes how to convert a $\color{VioletRed}{\textbf{seed}}$ $\color{VioletRed}{\textbf{number}}$ (the source) to a $\color{VioletRed}{\textbf{soil}}$ $\color{VioletRed}{\textbf{number}}$ (the destination). This lets the gardener and his team know which soil to use with which seeds, which water to use with which fertilizer, and so on.
+The rest of the almanac contains a list of $\color{VioletRed}{\textbf{maps}}$ which describe how to convert numbers from a $\color{VioletRed}{\textbf{source}}$ $\color{VioletRed}{\textbf{category}}$ into numbers in a $\color{VioletRed}{\textbf{destination}}$ $\color{VioletRed}{\textbf{category}}$. That is, the section that starts with `seed-to-soil map`: describes how to convert a $\color{VioletRed}{\textbf{seed}}$ $\color{VioletRed}{\textbf{number}}$ (the source) to a $\color{VioletRed}{\textbf{soil}}$ $\color{VioletRed}{\textbf{number}}$ (the destination). This lets the gardener and his team know which soil to use with which seeds, which water to use with which fertilizer, and so on.
 
 Rather than list every source number and its corresponding destination number one by one, the maps describe entire $\color{VioletRed}{\textbf{ranges}}$ of numbers that can be converted. Each line within a map contains three numbers: the $\color{VioletRed}{\textbf{destination}}$ $\color{VioletRed}{\textbf{range}}$ $\color{VioletRed}{\textbf{start}}$, the $\color{VioletRed}{\textbf{source}}$ $\color{VioletRed}{\textbf{range}}$ $\color{VioletRed}{\textbf{start}}$, and the $\color{VioletRed}{\textbf{range}}$ $\color{VioletRed}{\textbf{length}}$.
 
-Consider again the example seed-to-soil map:
+Consider again the example `seed-to-soil map`:
 
 | `50 98 2`<br>`52 50 48` |
 |:---|
 
 The first line has a $\color{VioletRed}{\textbf{destination}}$ $\color{VioletRed}{\textbf{range}}$ $\color{VioletRed}{\textbf{start}}$ of `50`, a $\color{VioletRed}{\textbf{source}}$ $\color{VioletRed}{\textbf{range}}$ $\color{VioletRed}{\textbf{start}}$ of `98`, and a $\color{VioletRed}{\textbf{range}}$ $\color{VioletRed}{\textbf{length}}$ of `2`. This line means that the source range starts at `98` and contains two values: `98` and `99`. The destination range is the same length, but it starts at `50`, so its two values are `50` and `51`. With this information, you know that seed number `98` corresponds to soil number `50` and that seed number `99` corresponds to soil number `51`.
 
-The second line means that the source range starts at `50` and contains `48` values: `50`, `51`, ..., `96`, `97`. This corresponds to a destination range starting at `52` and also containing `48` values: `52`, `53`, ..., `98`, `99`. So, seed number `53` corresponds to soil number `55`.
+The second line means that the source range starts at `50` and contains `48` values: `50`, `51`, . . . , `96`, `97`. This corresponds to a destination range starting at `52` and also containing `48` values: `52`, `53`, . . . , `98`, `99`. So, seed number `53` corresponds to soil number `55`.
 
 Any source numbers that $\color{VioletRed}{\textbf{aren't}}$ $\color{VioletRed}{\textbf{mapped}}$ correspond to the $\color{VioletRed}{\textbf{same}}$ destination number. So, seed number `10` corresponds to soil number `10`.
 
@@ -62,23 +58,3 @@ The gardener and his team want to get started as soon as possible, so they'd lik
 So, the lowest location number in this example is `35`.
 
 $\color{VioletRed}{\textbf{What}}$ $\color{VioletRed}{\textbf{is}}$ $\color{VioletRed}{\textbf{the}}$ $\color{VioletRed}{\textbf{lowest}}$ $\color{VioletRed}{\textbf{location}}$ $\color{VioletRed}{\textbf{number}}$ $\color{VioletRed}{\textbf{that}}$ $\color{VioletRed}{\textbf{corresponds}}$ $\color{VioletRed}{\textbf{to}}$ $\color{VioletRed}{\textbf{any}}$ $\color{VioletRed}{\textbf{of}}$ $\color{VioletRed}{\textbf{the}}$ $\color{VioletRed}{\textbf{initial}}$ $\color{VioletRed}{\textbf{seed}}$ $\color{VioletRed}{\textbf{numbers?}}$
-
-
-> Your puzzle answer was **`ANSWER`**
-
-<br>
-
-##  Part Two
-
-
-> Your puzzle answer was **`ANSWER`**
-
-<br>
-<br>
-
-# Credits
-
-> [!NOTE]  
-> **Image:** [_imagine.art_](https://www.imagine.art/)<br>
-> **Puzzles:** [_Advent of Code_](https://adventofcode.com/)
-
