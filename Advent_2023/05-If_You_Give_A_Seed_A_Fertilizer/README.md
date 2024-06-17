@@ -16,39 +16,9 @@ The almanac (your puzzle input) lists all of the seeds that need to be planted. 
 
 For example:
 
-seeds: 79 14 55 13
+| seeds: 79 14 55 13<br><br>seed-to-soil map:<br>50 98 2<br>52 50 48<br><br>soil-to-fertilizer map:<br>0 15 37<br>37 52 2<br>39 0 15<br><br>fertilizer-to-water map:<br>49 53 8<br>0 11 42<br>42 0 7<br>57 7 4<br><br>water-to-light map:<br>88 18 7<br>18 25 70<br><br>light-to-temperature map:<br>45 77 23<br>81 45 19<br>68 64 13<br><br>temperature-to-humidity map:<br>0 69 1<br>1 0 69<br><br>humidity-to-location map:<br>60 56 37<br>56 93 4 |
+|:---|
 
-seed-to-soil map:
-50 98 2
-52 50 48
-
-soil-to-fertilizer map:
-0 15 37
-37 52 2
-39 0 15
-
-fertilizer-to-water map:
-49 53 8
-0 11 42
-42 0 7
-57 7 4
-
-water-to-light map:
-88 18 7
-18 25 70
-
-light-to-temperature map:
-45 77 23
-81 45 19
-68 64 13
-
-temperature-to-humidity map:
-0 69 1
-1 0 69
-
-humidity-to-location map:
-60 56 37
-56 93 4
 The almanac starts by listing which seeds need to be planted: seeds 79, 14, 55, and 13.
 
 The rest of the almanac contains a list of maps which describe how to convert numbers from a source category into numbers in a destination category. That is, the section that starts with seed-to-soil map: describes how to convert a seed number (the source) to a soil number (the destination). This lets the gardener and his team know which soil to use with which seeds, which water to use with which fertilizer, and so on.
@@ -57,8 +27,9 @@ Rather than list every source number and its corresponding destination number on
 
 Consider again the example seed-to-soil map:
 
-50 98 2
-52 50 48
+| 50 98 2<br>52 50 48 |
+|:---|
+
 The first line has a destination range start of 50, a source range start of 98, and a range length of 2. This line means that the source range starts at 98 and contains two values: 98 and 99. The destination range is the same length, but it starts at 50, so its two values are 50 and 51. With this information, you know that seed number 98 corresponds to soil number 50 and that seed number 99 corresponds to soil number 51.
 
 The second line means that the source range starts at 50 and contains 48 values: 50, 51, ..., 96, 97. This corresponds to a destination range starting at 52 and also containing 48 values: 52, 53, ..., 98, 99. So, seed number 53 corresponds to soil number 55.
@@ -67,19 +38,9 @@ Any source numbers that aren't mapped correspond to the same destination number.
 
 So, the entire list of seed numbers and their corresponding soil numbers looks like this:
 
-seed  soil
-0     0
-1     1
-...   ...
-48    48
-49    49
-50    52
-51    53
-...   ...
-96    98
-97    99
-98    50
-99    51
+|`seed  soil`<br>`0     0`<br>`1     1`<br>`...   ...`<br>`48    48`<br>`49    49`<br>`50    52`<br>`51    53`<br>`...   ...`<br>`96    98`<br>`97    99`<br>`98    50`<br>`99    51`|
+|:---|
+
 With this map, you can look up the soil number required for each initial seed number:
 
 Seed number 79 corresponds to soil number 81.
