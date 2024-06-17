@@ -63,7 +63,7 @@ Once all of the originals and copies have been processed, you end up with `1` in
 
 Process all of the original and copied scratchcards until no more scratchcards are won. Including the original set of scratchcards, $\color{VioletRed}{\textbf{how many total scratchcards do you end up with?}}$
 
-> Your puzzle answer was **`ANSWER`**.
+> Your puzzle answer was **`5132675`**.
 
 <br>
 <br>
